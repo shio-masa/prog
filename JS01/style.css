@@ -1,0 +1,8 @@
+.front{
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    padding-top: 60px;
+    text-align: center;
+    line-height: 200%;
+}
